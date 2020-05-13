@@ -1,57 +1,61 @@
-[   
-   {
-        "title": "",
-        "image": "https://raw.githubusercontent.com/Maicba/memedep/master/memevisuals/2.jpg",
-        "price": ""
+[{
+        "title": "Star Wars: The Last Jedi",
+        "image": "https://api.androidhive.info/json/movies/starwars.jpg",
+        "price": "â‚¹ 160"
+    },
+{
+        "title": "Shape Of Water",
+        "image": "https://api.androidhive.info/json/movies/shape_of_water.jpg",
+        "price": "â‚¹ 130"
     },
     {
-        "title": "",
-        "image": "https://raw.githubusercontent.com/Maicba/memedep/master/memevisuals/3.jpg",
-        "price": ""
+        "title": "Baahubali: The Conclusion",
+        "image": "https://api.androidhive.info/json/movies/baahubali2.jpg",
+        "price": "â‚¹ 210"
     },
     {
-        "title": "",
-        "image": "https://raw.githubusercontent.com/Maicba/memedep/master/memevisuals/4.jpg",
-        "price": ""
+        "title": "Thor: The Ragnarok",
+        "image": "https://api.androidhive.info/json/movies/thor_ragnarok.jpg",
+        "price": "â‚¹ 170"
     },
     {
-        "title": "",
-        "image": "https://raw.githubusercontent.com/Maicba/memedep/master/memevisuals/5.jpg",
-        "price": ""
+        "title": "Justice League",
+        "image": "https://api.androidhive.info/json/movies/justice_league.jpg",
+        "price": "â‚¹ 120"
     },
     {
-        "title": "",
-        "image": "https://raw.githubusercontent.com/Maicba/memedep/master/memevisuals/6.jpg",
-        "price": ""
+        "title": "Coco",
+        "image": "https://api.androidhive.info/json/movies/coco.jpg",
+        "price": "â‚¹ 110"
     },
     {
-        "title": "",
-        "image": "https://raw.githubusercontent.com/Maicba/memedep/master/memevisuals/7.jpg",
-        "price": ""
+        "title": "Jumanji: Welcome To The Jungle",
+        "image": "https://api.androidhive.info/json/movies/jumanji.jpg",
+        "price": "â‚¹ 120"
     },
     {
-        "title": "",
-        "image": "https://raw.githubusercontent.com/Maicba/memedep/master/memevisuals/8.jpg",
-        "price": ""
+        "title": "Murder On The Orient Express",
+        "image": "https://api.androidhive.info/json/movies/murder_on_express.jpg",
+        "price": "â‚¹ 160"
     },
     {
-        "title": "",
-        "image": "https://raw.githubusercontent.com/Maicba/memedep/master/memevisuals/9.jpg",
-        "price": ""
+        "title": "Spider-Man: Homecoming",
+        "image": "https://api.androidhive.info/json/movies/spiderman_homecoming.jpg",
+        "price": "â‚¹ 190"
     },
     {
-        "title": "",
-        "image": "https://raw.githubusercontent.com/Maicba/memedep/master/memevisuals/10.jpg",
-        "price": ""
+        "title": "Ferdinand",
+        "image": "https://api.androidhive.info/json/movies/ferdinand.jpg",
+        "price": "â‚¹ 100"
     },
     {
-        "title": "",
-        "image": "https://raw.githubusercontent.com/Maicba/memedep/master/memevisuals/11.jpg",
-        "price": ""
+        "title": "The Disaster Artist",
+        "image": "https://api.androidhive.info/json/movies/disaster_artist.jpg",
+        "price": "â‚¹ 90"
     },
     {
-        "title": "",
-        "image": "https://raw.githubusercontent.com/Maicba/memedep/master/memevisuals/12.jpg",
-        "price": ""
+        "title": "Lady Bird",
+        "image": "https://api.androidhive.info/json/movies/lady_bird.jpg",
+        "price": "â‚¹ 80"
     }
-]
+    ]
